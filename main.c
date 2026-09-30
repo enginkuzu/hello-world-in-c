@@ -2,6 +2,7 @@
 #include <stdlib.h>
 
 int main(){
+    printf("Hello world\n");
     system("pwd");
     system("whoami");
     system("ls");
